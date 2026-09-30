@@ -1,0 +1,4 @@
+$ git branch -vv
+* main         8d9e3f4 [origin/main] Latest changes
+  bug-fix-typo 4a7b2c1 [origin/bug-fix-typo] Fix typo
+  dev          7c6d5e2 [origin/dev] Development changes
