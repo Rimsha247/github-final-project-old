@@ -1,0 +1,3 @@
+$ curl -L https://api.github.com/repos/Rimsha247/simple-interest-calculator/pulls
+
+[terminal output showing your pull request and its forked repository]
