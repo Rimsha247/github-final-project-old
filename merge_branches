@@ -2,7 +2,7 @@ $ git checkout main
 Switched to branch 'main'
 
 $ git merge bug-fix-typo
-Updating 1234567..89abcde
+Updating 4a7b2c1..8d9e3f4
 Fast-forward
  index.html | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
